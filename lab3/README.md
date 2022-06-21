@@ -2,4 +2,4 @@
 
 **Output**
 
-![](../outputs/lab3.png)
+![](../outputs/lab3.PNG)
