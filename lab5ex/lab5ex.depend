@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1654422737 source:e:\cg_lab\lab5ex\lab5ex.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1654423202 source:e:\study\varsity\l-4 t-2\computer graphics lab\lab5ex\lab5ex.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+
